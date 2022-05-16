@@ -2,7 +2,7 @@
 <h3 align="center">
     <strong>A few may call me Taha</strong>
 </h3>
-<h3>In Breif</h3>
+<h3>In Brief</h3>
 <p>
 I'm a senior Computer Engineering student, currently stduying in Iran.
 
