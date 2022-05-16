@@ -12,6 +12,13 @@ I actually trade Forex often, this is the main reason you don't see much commits
 
 🔭 You can visit my landing page, [here](https://underdash.web.app). 
 </p>
+<h3>Featured Blogs</h3>
+<p>
+    <a href="https://underdash.medium.com/spiral-matrix-javascript-c8aa2bd957e">Spiral Matrix -- Javascript</a>
+</p>
+<p>
+    <a href="https://underdash.medium.com/javascript-tilde-operator-practical-examples-a303e5e4b65e?">Javascript Tilde Operator - Practical Examples</a>
+</p>
 <h3>Contact</h3>
 <a href="https://underdash.medium.com">
     <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" width="60" alt="">
