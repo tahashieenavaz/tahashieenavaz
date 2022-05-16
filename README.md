@@ -10,6 +10,13 @@ Interested in Management Skills and Financial Markets.
 
 I actually trade Forex often, this is the main reason you don't see much commits associated to my Github account!
 </p>
+<h3>Contact</h3>
+<a href="https://underdash.medium.com">
+    <img src="https://upload.vectorlogo.zone/logos/medium/images/43c41ba8-9de2-453d-92dc-500dab4e316a.svg" width="60" alt="">
+</a>
+<a href="https://linkedin.com/in/tahashieenavaz">
+    <img width="60" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="">
+</a>
 <h3>Languages and Tools</h3>
 <p>
     <img width="60" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" >
