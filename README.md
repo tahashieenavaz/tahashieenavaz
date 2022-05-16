@@ -4,11 +4,11 @@
 </h3>
 <h3>In Brief</h3>
 <p>
-I'm a senior Computer Engineering student, currently stduying in Iran.
+👴 I'm a senior Computer Engineering student, currently studying in Iran.
 
-Interested in Management Skills and Financial Markets.
+😎 Interested in Management Skills and Financial Markets.
 
-I actually trade Forex often, this is the main reason you don't see much commits associated to my Github account!
+💸 I actually trade Forex often, this is the main reason you don't see much commits associated to my Github account!
 
 🔭 You can visit my landing page, [here](https://underdash.web.app). 
 </p>
