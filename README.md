@@ -1,5 +1,7 @@
 <h1 align="center">UNDERDASH</h1>
-<h3 align="center"><b>Some people may call me Taha</b></h3>
+<h3 align="center">
+    <strong>Some people may call me Taha</strong>
+</h3>
 
 
 <!--
