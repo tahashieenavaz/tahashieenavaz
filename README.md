@@ -13,7 +13,9 @@
     <img width="60" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
     <img width="60" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
     <img width="60" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg">
-    <img width="60" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"></img>
+    <img width="60" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg">
+    <img width="60" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="">    
+    <img width="60" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="">
     <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png?20210729021535" alt="">
     <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" alt="">
 </p>
