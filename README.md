@@ -42,6 +42,8 @@ I actually trade Forex often, this is the main reason you don't see much commits
 <p>
     <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png?20210729021535" alt="">
     <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" alt="">
+    <img width="60" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="">
+    <img width="60" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="">
 </p>
 
 <!--
