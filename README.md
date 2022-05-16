@@ -4,7 +4,7 @@
 </h3>
 <h3>In Brief</h3>
 <p>
-👴 I'm a senior Computer Engineering student, currently studying in Iran.
+⚡ I'm a senior Computer Engineering student, currently studying in Iran.
 
 😎 Interested in Management Skills and Financial Markets.
 
