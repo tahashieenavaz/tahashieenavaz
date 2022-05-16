@@ -2,6 +2,14 @@
 <h3 align="center">
     <strong>A few may call me Taha</strong>
 </h3>
+<h3>In Breif</h3>
+<p>
+I'm a senior Computer Engineering student, currently stduying in Iran.
+
+Interested in Management Skills and Financial Markets.
+
+I actually trade Forex often, this is the main reason you don't see much commits associated to my Github account!
+</p>
 <h3>Languages and Tools</h3>
 <p>
     <img width="60" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" >
