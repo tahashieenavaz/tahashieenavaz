@@ -41,6 +41,7 @@
     <img width="60" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="">
     <img width="60" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="">
     <img width="60" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="">
+    <img width="60" src="https://vitejs.dev/logo.svg">
 </p>
 
 <h3>🎨 Design Tools</h3>
