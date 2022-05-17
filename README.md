@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/tahashieenavaz">
     <img width="60" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="">
 </a>
-<h3>Languages</h3>
+<h3>🔥 Languages</h3>
 <p>
     <img width="60" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" >
     <img width="60" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="">
@@ -43,7 +43,7 @@
     <img width="60" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="">
 </p>
 
-<h3>Tools</h3>
+<h3>🎨 Design Tools</h3>
 <p>
     <img width="60" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
     <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png?20210729021535" alt="">
