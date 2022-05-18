@@ -38,7 +38,7 @@
     <img width="60" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
     <img width="60" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg">
     <img width="60" src="https://www.solidjs.com/assets/logo.123b04bc.svg">
-    <img width="60" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg">
+    <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png">
     <img width="60" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="">    
     <img width="60" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="">
     <img width="60" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="">
