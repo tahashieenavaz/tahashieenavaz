@@ -36,16 +36,16 @@
     <img width="60" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="">
     <img width="60" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
     <img width="60" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
-    <img width="60" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg">
+    <!--<img width="60" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"> -->
     <img width="60" src="https://www.solidjs.com/assets/logo.123b04bc.svg">
     <img width="60" src="https://pagepro.co/static/img/nextjs-logo-v2-2bd6a1442c.svg">
     <img width="60" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="">    
     <img width="60" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="">
     <img width="60" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="">
     <img width="60" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="">
+    <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="">
     <img width="60" src="https://vitejs.dev/logo.svg">
 </p>
-
 <h3>🎨 Design</h3>
 <p>
     <img width="60" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
