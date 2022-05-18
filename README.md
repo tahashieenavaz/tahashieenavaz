@@ -10,7 +10,8 @@
 
 💸 I actually trade Forex often, this is the main reason you don't see much commits associated to my Github account!
 
-🔭 You can visit my landing page, [here](https://underdash.web.app). 
+🔭 You can visit my landing page, [here](https://underdash.web.app).
+
 </p>
 <h3>Featured Blogs</h3>
 <p>
@@ -36,6 +37,7 @@
     <img width="60" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
     <img width="60" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
     <img width="60" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg">
+    <img width="60" src="https://www.solidjs.com/assets/logo.123b04bc.svg">
     <img width="60" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg">
     <img width="60" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="">    
     <img width="60" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="">
