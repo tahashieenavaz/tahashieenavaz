@@ -27,7 +27,7 @@
 <a href="https://linkedin.com/in/tahashieenavaz">
     <img width="60" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="">
 </a>
-<h3>🔥 Languages</h3>
+<h3>🔥 Languages and Tools</h3>
 <p>
     <img width="60" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" >
     <img width="60" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="">
@@ -38,7 +38,7 @@
     <img width="60" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
     <img width="60" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg">
     <img width="60" src="https://www.solidjs.com/assets/logo.123b04bc.svg">
-    <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png">
+    <img width="60" src="https://pagepro.co/static/img/nextjs-logo-v2-2bd6a1442c.svg">
     <img width="60" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="">    
     <img width="60" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="">
     <img width="60" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="">
@@ -46,7 +46,7 @@
     <img width="60" src="https://vitejs.dev/logo.svg">
 </p>
 
-<h3>🎨 Design Tools</h3>
+<h3>🎨 Design</h3>
 <p>
     <img width="60" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
     <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png?20210729021535" alt="">
