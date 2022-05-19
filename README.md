@@ -45,6 +45,7 @@
     <img width="60" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="">
     <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="">
     <img width="60" src="https://vitejs.dev/logo.svg">
+    <img width="60" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
 </p>
 <h3>🎨 Design</h3>
 <p>
