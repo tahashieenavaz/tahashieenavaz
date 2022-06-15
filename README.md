@@ -20,6 +20,9 @@
 <p>
     <a href="https://underdash.medium.com/javascript-tilde-operator-practical-examples-a303e5e4b65e?">Javascript Tilde Operator - Practical Examples</a>
 </p>
+<p>
+    <a href="https://underdash.medium.com/how-to-manually-check-laravels-user-credentials-bd81bd8e7af">Login using username Laravel</a>
+</p>
 <h3>Contact</h3>
 <a href="https://underdash.medium.com">
     <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" width="60" alt="">
