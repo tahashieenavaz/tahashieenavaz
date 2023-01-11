@@ -10,7 +10,7 @@
 
 💸 I actually trade Forex often, this is the main reason you don't see much commits associated to my Github account!
 
-🔭 You can visit my landing page, [here](https://underdash.web.app).
+🔭 You can visit my landing page, [here](https://underdash.tech).
 
 </p>
 <h3>Featured Blogs</h3>
@@ -23,10 +23,13 @@
 <p>
     <a href="https://underdash.medium.com/how-to-manually-check-laravels-user-credentials-bd81bd8e7af">Login using username Laravel</a>
 </p>
+<p>
+    <a href="https://underdash.tech/blog/var-dump-python/">PHP's var_dump equavalent in Python</a>
+</p>
+<p>
+    <a href="https://underdash.tech/blog/watch-python-project-for-changes/">Watch Python Project for Changes and Reload Automatically</a>
+</p>
 <h3>Contact</h3>
-<a href="https://underdash.medium.com">
-    <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" width="60" alt="">
-</a>
 <a href="https://linkedin.com/in/tahashieenavaz">
     <img width="60" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="">
 </a>
