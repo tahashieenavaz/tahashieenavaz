@@ -4,12 +4,16 @@
 </h3>
 <h3>In Brief</h3>
 <p>
-⚡ I'm a senior Computer Engineering student, currently studying in Iran.
+I am Taha Shieenavaz and I have over a decade of experience in web development. My primary expertise is in Laravel and PHP, however, I am also proficient in developing web-based applications using Node.js and Python.
 
-😎 Interested in Management Skills and Financial Markets.
+I dedicate a significant portion of my time to reading and researching topics related to probability, trading, investment, and management.
 
-💸 I actually trade Forex often, this is the main reason you don't see much commits associated to my Github account!
+I also allocate time to my university studies, as well as freelance work. Additionally, I assist individuals who aspire to become full-time traders or successful programmers by teaching trading and programming.
 
+I am proud to announce that I was awarded a WorldSkills medal for Web Technologies in 2021, which highlights my technical skill in the field.
+
+I would love to bring my experience, knowledge and skills to your organization, and I am available for an interview at your convenience.
+    
 🔭 You can visit my landing page, [here](https://underdash.tech).
 
 </p>
