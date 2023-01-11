@@ -42,8 +42,6 @@
     <img width="60" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="">
     <img width="60" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
     <img width="60" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
-    <!--<img width="60" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"> -->
-    <img width="60" src="https://www.solidjs.com/assets/logo.123b04bc.svg">
     <img width="60" src="https://pagepro.co/static/img/nextjs-logo-v2-2bd6a1442c.svg">
     <img width="60" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="">    
     <img width="60" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="">
