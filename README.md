@@ -45,23 +45,23 @@ I would love to bring my experience, knowledge and skills to your organization, 
 
 <h3>🔥 Languages and Tools</h3>
 <p>
-    <img width="60" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" >
-    <img width="60" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="">
-    <img width="60" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="">
-    <img width="60" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="">
-    <img width="60" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="">
-    <img width="60" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
-    <img width="60" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
-    <img width="60" src="https://pagepro.co/static/img/nextjs-logo-v2-2bd6a1442c.svg">
-    <img width="60" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="">    
-    <img width="60" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="">
-    <img width="60" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="">
-    <img width="60" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="">
-    <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="">
-    <img width="60" src="https://vitejs.dev/logo.svg">
-    <img width="60" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
-    <img width="60" src="https://pinia.vuejs.org/logo.svg">
-    <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/520px-Scikit_learn_logo_small.svg.png">
+    <img height="60" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" >
+    <img height="60" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="">
+    <img height="60" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="">
+    <img height="60" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="">
+    <img height="60" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="">
+    <img height="60" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
+    <img height="60" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
+    <img height="60" src="https://pagepro.co/static/img/nextjs-logo-v2-2bd6a1442c.svg">
+    <img height="60" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="">    
+    <img height="60" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="">
+    <img height="60" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="">
+    <img height="60" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="">
+    <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="">
+    <img height="60" src="https://vitejs.dev/logo.svg">
+    <img height="60" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+    <img height="60" src="https://pinia.vuejs.org/logo.svg">
+    <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/520px-Scikit_learn_logo_small.svg.png">
 </p>
 <h3>🎨 Design</h3>
 <p>
