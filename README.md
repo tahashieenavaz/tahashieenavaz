@@ -33,10 +33,16 @@ I would love to bring my experience, knowledge and skills to your organization, 
 <p>
     <a href="https://underdash.tech/blog/watch-python-project-for-changes/">Watch Python Project for Changes and Reload Automatically</a>
 </p>
+<p>
+    <a href="https://underdash.tech/blog/readable-for-loops/">Readable For Loops</a>
+</p>
+
 <h3>Contact</h3>
+
 <a href="https://linkedin.com/in/tahashieenavaz">
     <img width="60" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="">
 </a>
+
 <h3>🔥 Languages and Tools</h3>
 <p>
     <img width="60" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" >
