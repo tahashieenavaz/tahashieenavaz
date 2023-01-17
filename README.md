@@ -65,7 +65,7 @@ I would love to bring my experience, knowledge and skills to your organization, 
 </p>
 <h3>🎨 Design</h3>
 <p>
-    <img width="60" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-    <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png?20210729021535" alt="">
-    <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" alt="">
+    <img height="60" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+    <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png?20210729021535" alt="">
+    <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" alt="">
 </p>
