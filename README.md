@@ -40,7 +40,7 @@ I would love to bring my experience, knowledge and skills to your organization, 
 <h3>Contact</h3>
 
 <a href="https://linkedin.com/in/tahashieenavaz">
-    <img width="60" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="">
+    <img height="60" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="">
 </a>
 
 <h3>🔥 Languages and Tools</h3>
