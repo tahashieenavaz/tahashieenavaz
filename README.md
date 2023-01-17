@@ -60,7 +60,7 @@ I am proud to announce that I was awarded a WorldSkills medal for Web Technologi
     <img height="60" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
     <img height="60" src="https://pinia.vuejs.org/logo.svg">
     <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/520px-Scikit_learn_logo_small.svg.png">
-    <img height="60" src="https://astro.build/assets/press/full-logo-light.svg">
+    <img height="60" src="https://astro.build/assets/press/simple-full-logo-dark.svg">
 </p>
 <h3>🎨 Design</h3>
 <p>
