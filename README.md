@@ -45,6 +45,7 @@ I am proud to announce that I was awarded a WorldSkills medal for Web Technologi
 <p>
     <img height="60" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
     <img height="60" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
+    <img height="60" src="https://pinia.vuejs.org/logo.svg">
     <img height="60" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="">
     <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="">
     <img height="60" src="https://vitejs.dev/logo.svg">
@@ -57,7 +58,6 @@ I am proud to announce that I was awarded a WorldSkills medal for Web Technologi
     <img height="60" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="">
     <img height="60" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="">
     <img height="60" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
-    <img height="60" src="https://pinia.vuejs.org/logo.svg">
     <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/520px-Scikit_learn_logo_small.svg.png">
     <img height="60" src="https://astro.build/assets/press/simple-full-logo-dark.svg">
     <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg">
