@@ -17,7 +17,7 @@ I am proud to announce that I was awarded a WorldSkills medal for Web Technologi
 </p>
 <h3>Featured Blogs</h3>
 <p>
-    <a href="https://underdash.medium.com/spiral-matrix-javascript-c8aa2bd957e">Spiral Matrix -- Javascript</a>
+    <a href="https://underdash.tech/blog/spiral-matrix/">Spiral Matrix</a>
 </p>
 <p>
     <a href="https://underdash.medium.com/javascript-tilde-operator-practical-examples-a303e5e4b65e?">Javascript Tilde Operator - Practical Examples</a>
