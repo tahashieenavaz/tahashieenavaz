@@ -19,12 +19,12 @@ I am proud to announce that I was awarded a WorldSkills medal for Web Technologi
 <p>
     <a href="https://underdash.tech/blog/spiral-matrix/">Spiral Matrix</a>
 </p>
-<p>
+<!-- <p>
     <a href="https://underdash.medium.com/javascript-tilde-operator-practical-examples-a303e5e4b65e?">Javascript Tilde Operator - Practical Examples</a>
 </p>
 <p>
     <a href="https://underdash.medium.com/how-to-manually-check-laravels-user-credentials-bd81bd8e7af">Login using username Laravel</a>
-</p>
+</p> -->
 <p>
     <a href="https://underdash.tech/blog/var-dump-python/">PHP's var_dump equavalent in Python</a>
 </p>
