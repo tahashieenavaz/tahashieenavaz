@@ -53,7 +53,7 @@ I am proud to announce that I was awarded a WorldSkills medal for Web Technologi
     <img height="60" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="Telegram" />
 </a>
 
-<h2>🔥 Languages and Tools</h2>
+<h2>Languages and Tools</h2>
 
 <h3>🚀 Frontend</h3>
 <p>
@@ -67,7 +67,7 @@ I am proud to announce that I was awarded a WorldSkills medal for Web Technologi
     <img height="60" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
 </p>
 
-<h3>💥 Backend</h3>
+<h3>🔥 Backend</h3>
 <p>
     <img height="60" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
     <img height="60" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="">
