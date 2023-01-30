@@ -17,6 +17,11 @@ I am proud to announce that I was awarded a WorldSkills medal for Web Technologi
 </p>
 <h3>Featured Blogs</h3>
 <p>
+    <a href="https://underdash.tech/blog/google-from-command-line/">Jump to Google from Command-Line</a>
+</p>
+
+
+<p>
     <a href="https://underdash.tech/blog/spiral-matrix/">Spiral Matrix</a>
 </p>
 <p>
@@ -28,6 +33,10 @@ I am proud to announce that I was awarded a WorldSkills medal for Web Technologi
 <p>
     <a href="https://underdash.tech/blog/var-dump-python/">PHP's var_dump equavalent in Python</a>
 </p>
+<p>
+    <a href="https://underdash.tech/blog/tilde-operator/">Tilde Operator in Javascript</a>
+</p>
+
 <p>
     <a href="https://underdash.tech/blog/watch-python-project-for-changes/">Watch Python Project for Changes and Reload Automatically</a>
 </p>
