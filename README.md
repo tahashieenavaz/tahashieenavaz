@@ -55,27 +55,37 @@ I am proud to announce that I was awarded a WorldSkills medal for Web Technologi
 </a>
 
 <h3>🔥 Languages and Tools</h3>
+
+<h3>🚀 Frontend</h3>
 <p>
-    <img height="60" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
-    <img height="60" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
-    <img height="60" src="https://pinia.vuejs.org/logo.svg">
-    <img height="60" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="">
     <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="">
     <img height="60" src="https://vitejs.dev/logo.svg">
-    <img height="60" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="">
-    <img height="60" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="">
-    <img height="60" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="">
+    <img height="60" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
+    <img height="60" src="https://pinia.vuejs.org/logo.svg">
+    <img height="60" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="">    
     <img height="60" src="https://pagepro.co/static/img/nextjs-logo-v2-2bd6a1442c.svg">
+    <img height="60" src="https://astro.build/assets/press/simple-full-logo-dark.svg">
+    <img height="60" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+</p>
+
+<h3>💥 Backend</h3>
+<p>
+    <img height="60" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
+    <img height="60" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="">
     <img height="60" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="">    
-    <img height="60" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="">
     <img height="60" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="">
     <img height="60" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="">
-    <img height="60" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
-    <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/520px-Scikit_learn_logo_small.svg.png">
-    <img height="60" src="https://astro.build/assets/press/simple-full-logo-dark.svg">
-    <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg">
-    <img height="60" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" >
+    <img height="60" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="">
+    <img height="60" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="">
+    
 </p>
+
+<h3>🚜 Machine Learning</h3>
+<p>
+    <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/520px-Scikit_learn_logo_small.svg.png">
+    <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg">    
+</p>
+
 <h3>🎨 Design</h3>
 <p>
     <img height="60" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
