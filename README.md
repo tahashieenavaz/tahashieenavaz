@@ -1,8 +1,7 @@
-<h1 align="center">UNDERDASH</h1>
-<h3 align="center">
-    <strong>A few may call me Taha</strong>
-</h3>
-<h3>In Brief</h3>
+<h1 align="center">Underdash</h1>
+<h3 align="center">a.k.a Taha</h3>
+
+<h2>Summary</h2>
 <p>
 I am Taha Shieenavaz and I have over a decade of experience in web development. My primary expertise is in Laravel and PHP, however, I am also proficient in developing web-based applications using Node.js and Python.
 
@@ -15,7 +14,7 @@ I am proud to announce that I was awarded a WorldSkills medal for Web Technologi
 🔭 You can visit my landing page, [here](https://underdash.tech).
 
 </p>
-<h3>Featured Blogs</h3>
+<h2>Featured Blogs</h2>
 <p>
     <a href="https://underdash.tech/blog/google-from-command-line/">Jump to Google from Command-Line</a>
 </p>
@@ -44,7 +43,7 @@ I am proud to announce that I was awarded a WorldSkills medal for Web Technologi
     <a href="https://underdash.tech/blog/readable-for-loops/">Readable For Loops</a>
 </p>
 
-<h3>Contact</h3>
+<h2>Contact</h2>
 
 <a href="https://linkedin.com/in/tahashieenavaz">
     <img height="60" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" />
@@ -54,7 +53,7 @@ I am proud to announce that I was awarded a WorldSkills medal for Web Technologi
     <img height="60" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="Telegram" />
 </a>
 
-<h3>🔥 Languages and Tools</h3>
+<h2>🔥 Languages and Tools</h2>
 
 <h3>🚀 Frontend</h3>
 <p>
