@@ -47,7 +47,11 @@ I am proud to announce that I was awarded a WorldSkills medal for Web Technologi
 <h3>Contact</h3>
 
 <a href="https://linkedin.com/in/tahashieenavaz">
-    <img height="60" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="">
+    <img height="60" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" />
+</a>
+
+<a href="https://t.me/TahaShieenavaz">
+    <img height="60" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="Telegram" />
 </a>
 
 <h3>🔥 Languages and Tools</h3>
