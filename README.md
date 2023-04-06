@@ -16,10 +16,11 @@ I am proud to announce that I was awarded a WorldSkills medal for Web Technologi
 </p>
 <h2>Featured Blogs</h2>
 <p>
+    <a href="https://underdash.tech/blog/opencv-hello-world/">OpenCV: Hello, World!</a>
+</p>
+<p>
     <a href="https://underdash.tech/blog/google-from-command-line/">Jump to Google from Command-Line</a>
 </p>
-
-
 <p>
     <a href="https://underdash.tech/blog/spiral-matrix/">Spiral Matrix</a>
 </p>
@@ -35,7 +36,6 @@ I am proud to announce that I was awarded a WorldSkills medal for Web Technologi
 <p>
     <a href="https://underdash.tech/blog/tilde-operator/">Tilde Operator in Javascript</a>
 </p>
-
 <p>
     <a href="https://underdash.tech/blog/watch-python-project-for-changes/">Watch Python Project for Changes and Reload Automatically</a>
 </p>
