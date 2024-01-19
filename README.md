@@ -16,42 +16,32 @@ I am proud to announce that I was awarded a WorldSkills medal for Web Technologi
 </p>
 <h2>Featured Blogs</h2>
 <p>
-    <a href="https://underdash.tech/blog/opencv-hello-world/">OpenCV: Hello, World!</a>
+    <a href="https://underdash.pro/blog/opencv-hello-world/">OpenCV: Hello, World!</a>
 </p>
 <p>
-    <a href="https://underdash.tech/blog/google-from-command-line/">Jump to Google from Command-Line</a>
+    <a href="https://underdash.pro/blog/google-from-command-line/">Jump to Google from Command-Line</a>
 </p>
 <p>
-    <a href="https://underdash.tech/blog/spiral-matrix/">Spiral Matrix</a>
+    <a href="https://underdash.pro/blog/spiral-matrix/">Spiral Matrix</a>
 </p>
 <p>
-    <a href="https://underdash.tech/blog/tilde-operator/">Javascript Tilde Operator - Practical Examples</a>
+    <a href="https://underdash.pro/blog/tilde-operator/">Javascript Tilde Operator - Practical Examples</a>
 </p>
 <!-- <p>
     <a href="https://underdash.medium.com/how-to-manually-check-laravels-user-credentials-bd81bd8e7af">Login using username Laravel</a>
 </p> -->
 <p>
-    <a href="https://underdash.tech/blog/var-dump-python/">PHP's var_dump equavalent in Python</a>
+    <a href="https://underdash.pro/blog/var-dump-python/">PHP's var_dump equavalent in Python</a>
 </p>
 <p>
-    <a href="https://underdash.tech/blog/tilde-operator/">Tilde Operator in Javascript</a>
+    <a href="https://underdash.pro/blog/tilde-operator/">Tilde Operator in Javascript</a>
 </p>
 <p>
-    <a href="https://underdash.tech/blog/watch-python-project-for-changes/">Watch Python Project for Changes and Reload Automatically</a>
+    <a href="https://underdash.pro/blog/watch-python-project-for-changes/">Watch Python Project for Changes and Reload Automatically</a>
 </p>
 <p>
-    <a href="https://underdash.tech/blog/readable-for-loops/">Readable For Loops</a>
+    <a href="https://underdash.pro/blog/readable-for-loops/">Readable For Loops</a>
 </p>
-
-<h2>Contact</h2>
-
-<a href="https://linkedin.com/in/tahashieenavaz">
-    <img height="60" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" />
-</a>
-
-<a href="https://t.me/TahaShieenavaz">
-    <img height="60" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="Telegram" />
-</a>
 
 <h2>Languages and Tools</h2>
 
