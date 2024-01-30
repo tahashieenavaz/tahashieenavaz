@@ -9,9 +9,9 @@ I dedicate a significant portion of my time to reading and researching topics re
 
 I also allocate time to my university studies, as well as freelance work. Additionally, I assist individuals who aspire to become full-time traders or successful programmers by teaching trading and programming.
 
-I am proud to announce that I was awarded a WorldSkills medal for Web Technologies in 2021, which highlights my technical skill in the field.
+I am proud to announce that I was awarded a WorldSkills medal for Web Technologies in 2021, which highlights my technical skills in the field.
     
-🔭 You can visit my landing page, [here](https://underdash.tech).
+🔭 You can visit my landing page, [here](https://underdash.pro).
 
 </p>
 <h2>Featured Blogs</h2>
