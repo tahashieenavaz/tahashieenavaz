@@ -5,7 +5,7 @@
 <p>
 I am Taha Shieenavaz and I have over a decade of experience in web development. My primary expertise is in Laravel and PHP, however, I am also proficient in developing web-based applications using Node.js and Python.
 
-I dedicate a significant portion of my time to reading and researching topics related to probability, trading, investment, and management.
+I dedicate a significant portion of my time to reading and researching topics related to probabilities, trading, investment, and management.
 
 I also allocate time to my university studies, as well as freelance work. Additionally, I assist individuals who aspire to become full-time traders or successful programmers by teaching trading and programming.
 
