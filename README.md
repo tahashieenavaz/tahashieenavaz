@@ -52,7 +52,7 @@ I am proud to announce that I was awarded a WorldSkills medal for Web Technologi
     <img height="60" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
     <img height="60" src="https://pinia.vuejs.org/logo.svg">
     <img height="60" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="">    
-    <img height="60" src="https://pagepro.co/static/img/nextjs-logo-v2-2bd6a1442c.svg">
+    <img height="60" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
     <img height="60" src="https://astro.build/assets/press/simple-full-logo-dark.svg">
     <img height="60" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
 </p>
