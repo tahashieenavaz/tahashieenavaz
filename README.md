@@ -1,9 +1,3 @@
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-
 <h1 align="center">Underdash</h1>
 <h3 align="center">a.k.a Taha</h3>
 
@@ -22,6 +16,8 @@ I am proud to announce that I was awarded a WorldSkills medal for Web Technologi
 </p>
 <h2>Featured Blogs</h2>
 
+<div align="center">
+
 | id | title                                                     | date             |      |
 |----|-----------------------------------------------------------|------------------|------|
 | 1  | PHP's var_dump equavalent in Python                       | 13 May 2024      | <a href="https://underdash.pro/blog/var-dump-python/">link</a> |
@@ -33,6 +29,8 @@ I am proud to announce that I was awarded a WorldSkills medal for Web Technologi
 | 7  | Machine Learning: Shattering Simplified                   | 15 January 2023  | <a href="https://underdash.pro/blog/shattering-simplified/">link</a> |
 | 8  | OpenCV: Hello, World!                                     | 30 December 2022 | <a href="https://underdash.pro/blog/opencv-hello-world/">link</a> |
 | 9  | Leadership Theory                                         | 26 December 2022 | <a href="https://underdash.pro/blog/leardership-theory/">link</a> |
+
+</div>
 
 <h2>Languages and Tools</h2>
 
