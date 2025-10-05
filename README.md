@@ -1,7 +1,5 @@
-<h1 align="center">Underdash</h1>
-<h3 align="center">a.k.a Taha</h3>
+<h1 align="center">Taha Shieenavaz</h1>
 
-<h2>Summary</h2>
 <p>
 I am Taha Shieenavaz and I have over a decade of experience in web development. My primary expertise is in Laravel and PHP, however, I am also proficient in developing web-based applications using Node.js and Python.
 
