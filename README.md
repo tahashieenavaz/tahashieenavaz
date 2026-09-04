@@ -16,6 +16,10 @@ deep learning:
 - <a href="https://github.com/tahashieenavaz/flamer">flamer</a>: deep learning modules
 - <a href="https://github.com/tahashieenavaz/nonlinear">nonlinear</a>: curated implementation of activation functions 
 - <a href="https://github.com/tahashieenavaz/gatv2">graph attention v2</a>: graph attention implementation
+- <a href="https://github.com/tahashieenavaz/pqn">pqn</a>: parallelized deep q network
+- <a href="https://github.com/tahashieenavaz/thriftynet">thriftynet</a>: thrifty net
+
+papers:  
 - <a href="https://github.com/tahashieenavaz/aftab">aftab</a>: implementation of my [aftab paper](https://arxiv.org/abs/2608.07335)
 
 creative/js:
