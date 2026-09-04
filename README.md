@@ -26,3 +26,4 @@ creative/js:
 - <a href="https://github.com/tahashieenavaz/pacman">pacman</a>: [live verson](https://tahashieenavaz.github.io/pacman)
 - <a href="https://github.com/tahashieenavaz/falling-sand">falling sand</a>: [live version](https://tahashieenavaz.github.io/falling-sand/)
 - <a href="https://github.com/tahashieenavaz/spy">spy</a>: [live version](https://tahashieenavaz.github.io/spy/)
+- <a href="https://github.com/tahashieenavaz/2048">2048</a>: [live version](https://tahashieenavaz.github.io/2048/)
