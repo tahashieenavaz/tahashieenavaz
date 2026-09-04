@@ -23,5 +23,6 @@ papers:
 - <a href="https://github.com/tahashieenavaz/aftab">aftab</a>: implementation of my [aftab paper](https://arxiv.org/abs/2608.07335)
 
 creative/js:
-- <a href="https://github.com/tahashieenavaz/pacman">pacman</a>: reimagination of game pacman
-- <a href="https://github.com/tahashieenavaz/falling-sand">falling sand</a>: addictive canvas effect
+- <a href="https://github.com/tahashieenavaz/pacman">pacman</a>: [live verson](https://tahashieenavaz.github.io/pacman)
+- <a href="https://github.com/tahashieenavaz/falling-sand">falling sand</a>: [live version](https://tahashieenavaz.github.io/falling-sand/)
+- <a href="https://github.com/tahashieenavaz/spy">spy</a>: [live version](https://tahashieenavaz.github.io/spy/)
