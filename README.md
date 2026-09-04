@@ -14,8 +14,8 @@ blogs:
 deep learning:
 - <a href="https://github.com/tahashieenavaz/baloot">baloot</a>: deep learning utility helpers
 - <a href="https://github.com/tahashieenavaz/flamer">flamer</a>: deep learning modules
-- <a href="https://github.com/tahashieenavaz/nonlinear">nonlinear</a>: curated implementation of activation functions 
-- <a href="https://github.com/tahashieenavaz/gatv2">graph attention v2</a>: graph attention implementation
+- <a href="https://github.com/tahashieenavaz/nonlinear">nonlinear</a>: modular implementation of activation functions 
+- <a href="https://github.com/tahashieenavaz/gatv2">gatv2</a>: graph attention v2 modular implementation
 - <a href="https://github.com/tahashieenavaz/pqn">pqn</a>: parallelized deep q network
 - <a href="https://github.com/tahashieenavaz/thriftynet">thriftynet</a>: thrifty net
 
