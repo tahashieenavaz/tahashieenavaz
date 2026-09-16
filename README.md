@@ -32,3 +32,4 @@
 * [spy](https://github.com/tahashieenavaz/spy) — [live demo](https://tahashieenavaz.github.io/spy/)
 * [2048](https://github.com/tahashieenavaz/2048) — [live demo](https://tahashieenavaz.github.io/2048/)
 * [win xp experience](https://github.com/tahashieenavaz/windows-xp) — [live demo](https://tahashieenavaz.github.io/windows-xp/)
+* [sierpiński triangle](https://github.com/tahashieenavaz/sierpinski) — [live demo](https://tahashieenavaz.github.io/sierpinski/)
